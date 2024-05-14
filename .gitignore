@@ -1,3 +1,5 @@
 /output
 nrt_var.txt
-
+/.ipynb_checkpoints
+.gitignore
+/__pycache__

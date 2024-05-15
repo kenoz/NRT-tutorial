@@ -1,4 +1,4 @@
-![fig_nrt](img/bandeau.png)
+![fig_nrt](img/bandeau_v2.png)
 
 # Processing satellite time-series for forest anomaly detection
 

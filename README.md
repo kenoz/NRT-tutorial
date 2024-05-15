@@ -32,9 +32,9 @@ However, depending on your needs, you can change provider as long as it complies
 
 The tutorial provides three vector files, so you can experiment the NRT package by masking non-forest areas and assessing the results with a few reference data.
 
-- `bd-foret_p33.gpkg`: limits of the studied area, a plot of coniferous forest in the North of France.
-- `plot01_samples.shp`: set of 14 reference points visually interpreted on Sentinel-2 time-series. It gives the start date of dieback (due to bark beetles) at the yellow or red stage (approximation). Produced by Kenji Ose (2024). 
-- `plot01_samples_2.shp`: set of 50 reference points visually interpreted on Sentinel-2 time-series. It gives the start date of dieback (due to bark beetles) at the yellow or red stage (approximation). Produced by Kenji Ose (2024).
+- `bd-foret_p33.gpkg`: limits of the studied area, a plot of coniferous forest in the North of France. Taken from BD Foret V2 &copy;IGN
+- `plot01_samples.shp`: set of 14 reference points visually interpreted on Sentinel-2 time-series. It gives the start date of dieback (due to bark beetles) at the yellow or red stage (approximation). Produced by &copy;Kenji Ose (2024). 
+- `plot01_samples_2.shp`: set of 50 reference points visually interpreted on Sentinel-2 time-series. It gives the start date of dieback (due to bark beetles) at the yellow or red stage (approximation). Produced by &copy;Kenji Ose (2024).
 
 ---
 

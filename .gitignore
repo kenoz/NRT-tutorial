@@ -1,4 +1,6 @@
 /output
 nrt_var.txt
-.*_
+.*
+.ipynb_checkpoints
+
 

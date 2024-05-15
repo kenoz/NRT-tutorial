@@ -2,5 +2,6 @@
 nrt_var.txt
 .*
 .ipynb_checkpoints
+__pycache__
 !/.gitignore
 

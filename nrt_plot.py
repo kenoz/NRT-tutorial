@@ -1,4 +1,4 @@
-# Copyright (C) 2024 European Union (Joint Research Centre)
+# Copyright (C) 2024
 # author(s): Kenji OSE
 # n.b. Some parts of the code (plots formatting) were kindly given by L. Dutrieux.
 

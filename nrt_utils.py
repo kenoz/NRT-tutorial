@@ -1,4 +1,4 @@
-# Copyright (C) 2024 European Union (Joint Research Centre)
+# Copyright (C) 2024
 # author(s): Kenji OSE
 
 from nrt.monitor.ewma import EWMA

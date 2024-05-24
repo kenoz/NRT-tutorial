@@ -65,7 +65,7 @@ The tutorial is designed in the form of **Jupyter notebook** files. You must fir
 ---
 
 ## 5. Author(s) and support
-The tutorials are written by Kenji Ose (JRC.D.1). 
+The tutorials are written by Kenji Ose. 
 
 For any help, comment, etc., please use the issue tracker.
 

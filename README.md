@@ -12,8 +12,8 @@ Here we present a **Python tutorial** for manipulating the **time series of sate
 
 The tutorial is divided into 5 steps:
 
-- [01_array2files.ipynb](01_array2files.ipynb): we propose here to search through a STAC  catalog the available images according to several criteria (start date, end date, cloudiness, etc.)
-- [02_vi_index.ipynb](02_vi_index.ipynb): from the satellite time-series, we calculate vegetation indices for each date and store this new information in a datacube. In a second step, we filter the cube in such a way as to only keep the images that seem useful.
+- [01_vi_datacube.ipynb](01_vi_datacube.ipynb): we propose here to search through a STAC catalog the available images according to several criteria (start date, end date, cloudiness, etc.), calculate some vegetation indices (VI), apply mask and export the datacube as file.
+- [02_vi_index.ipynb](02_vi_index.ipynb): from the VI time-series, we experiment a gap filling technique to remove the masked pixels and estimate a VI value instead. Then we present different ways for displaying satellite datacubes.
 - [03_vi_time-series_plot.ipynb](03_vi_time-series_plot.ipynb): we analyze the VI time-series with the NRT package. The objective is to fully understand how this tool works, by visualizing through plots the time-series values, the modeling by harmonious function and the more or less early detections depending on the methods used.
 - [04_optimized_params.ipynb](04_optimized_params.ipynb): we propose here to optimize the parameters to minimize the difference between the reference date and the detection date.
 - [05_produce_anomaly_map.ipynb](05_produce_anomaly_map.ipynb): we use the NRT package to produce an image of the diebacks spread.
